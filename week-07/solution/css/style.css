@@ -1,0 +1,85 @@
+/* This is a comment! */
+
+/* Uncomment each CSS rule individually to see how the 
+   selector targets the HTML! */
+
+body {
+  color: black;
+}
+
+/* type selector */
+
+/* figcaption {
+  color: red;
+} */
+
+/* section {
+  color: red;
+} */
+
+
+/* id selector */
+
+/* #etymology {
+  color: red;
+} */
+
+
+/* class selector */
+
+/* .alt-row {
+  color: red;
+} */
+
+
+/* descendant selector */
+
+/* nav li {
+  color: red;
+} */
+
+/* #volcanic-features h3 {
+  color: red;
+} */
+
+
+/* combination selector */
+
+/* h1,
+h2, 
+h3, 
+h4 {
+  color: red;
+} */
+
+
+/* child selector */
+
+/* p > abbr {
+  color: red;
+} */
+
+
+/* attribute selector (with 'starts with' modifier) */
+
+/* [datetime^="20"] {
+  color: red;
+} */
+
+
+/* pseudo-elements */
+
+/* p::first-letter {
+  color: red;
+} */
+
+
+/* pseudo-classes */
+
+/* a:hover {
+  color: red;
+}
+
+a:active {
+  color: green;
+} */
